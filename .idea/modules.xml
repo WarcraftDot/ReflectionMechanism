@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Lambda/Lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ReflectionMechanism.iml" filepath="$PROJECT_DIR$/.idea/ReflectionMechanism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.yt.ReflectionMechanism/com.yt.ReflectionMechanism.iml" filepath="$PROJECT_DIR$/com.yt.ReflectionMechanism/com.yt.ReflectionMechanism.iml" />
     </modules>
   </component>
